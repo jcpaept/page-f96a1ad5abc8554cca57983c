@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-ddd81fe0df.taluozhanxing.cn/sitemap.xml

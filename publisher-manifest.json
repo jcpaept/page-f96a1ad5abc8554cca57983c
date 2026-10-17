@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "435049e3cbbdc50dc1a2c362",
+  "owner": "jcpaept",
+  "repo": "page-f96a1ad5abc8554cca57983c",
+  "title": "出口",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f96a1ad5abc8554cca57983c",
+      "a": "出口",
+      "b": "",
+      "entity": "出口",
+      "brand": "出口",
+      "separator": "",
+      "path": "index.html",
+      "hash": "2a548c480f74c9e9e3a6d87548ad38feceb0de853303bb4f20cb7341fd129b02",
+      "content": {
+        "keyword1": "出口",
+        "keyword2": "",
+        "primary_entity": "出口",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "出口是一款面向跨境网络场景的通道服务，提供分层流量配额、节点路由与工单支持。",
+          "AI_DESCRIPTION": "出口是一款面向跨境网络场景的通道服务，提供分层流量配额、节点路由与工单支持。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*,*::before,*::after{box-sizing:border-box}\nhtml,body{margin:0;padding:0;background:#f4ede1;color:#3a2a1a;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.65;-webkit-font-smoothing:antialiased}\na{color:inherit;text-decoration:none}\nimg{max-width:100%;display:block}\n:root{--brown:#3a2a1a;--brown-soft:#5b4530;--mint:#9fd6c2;--mint-deep:#6fb89e;--cream:#f4ede1;--paper:#ebe0cd;--line:#d6c8b0}\n.nav{position:sticky;top:0;z-index:10;background:var(--brown);color:#efe5d4;border-bottom:1px solid #2a1d10}\n.nav-inner{max-width:1180px;margin:0 auto;padding:14px 28px;display:flex;align-items:center;justify-content:space-between;gap:24px;font-size:13px;letter-spacing:.06em}\n.nav-brand{font-weight:600;letter-spacing:.18em}\n.nav-links{display:flex;gap:22px;flex-wrap:wrap}\n.nav-links a{opacity:.78}\n.nav-links a:hover{opacity:1;color:var(--mint)}\n.hero{max-width:1180px;margin:0 auto;padding:72px 28px 64px;display:grid;grid-template-columns:1.15fr .85fr;gap:56px;align-items:start}\n.hero-text h1{font-size:46px;line-height:1.15;margin:0 0 18px;letter-spacing:.02em;color:var(--brown)}\n.hero-text .lede{font-size:16px;color:var(--brown-soft);max-width:46ch;margin:0 0 22px}\n.hero-text .meta{font-size:12px;color:#7a6549;letter-spacing:.18em;text-transform:uppercase}\n.hero-panel{background:var(--paper);padding:28px 28px 24px;border-top:3px solid var(--mint-deep)}\n.hero-panel h2{font-size:13px;letter-spacing:.22em;text-transform:uppercase;margin:0 0 14px;color:var(--brown)}\n.hero-panel dl{margin:0}\n.hero-panel .row{display:flex;justify-content:space-between;gap:18px;padding:10px 0;border-bottom:1px solid var(--line);font-size:14px}\n.hero-panel .row:last-child{border-bottom:0}\n.hero-panel .row dt{color:var(--brown-soft)}\n.hero-panel .row dd{margin:0;color:var(--brown);font-weight:500;text-align:right}\nmain{max-width:1180px;margin:0 auto;padding:0 28px 80px}\nsection{margin:64px 0}\n.eyebrow{font-size:12px;letter-spacing:.24em;text-transform:uppercase;color:var(--mint-deep);margin:0 0 10px}\nh2{font-size:26px;margin:0 0 20px;color:var(--brown);font-weight:600;letter-spacing:.01em}\nh3{font-size:17px;margin:0 0 10px;color:var(--brown);font-weight:600}\np{margin:0 0 12px;color:var(--brown-soft);font-size:15px}\n.intro p{max-width:62ch}\n.plan-stack{display:flex;flex-direction:column;gap:36px;margin-top:8px}\n.plan-card{display:grid;grid-template-columns:200px 1fr 220px;gap:32px;padding:28px 0;border-top:1px solid var(--line)}\n.plan-card:last-child{border-bottom:1px solid var(--line)}\n.plan-card .name{font-size:20px;font-weight:600;color:var(--brown);letter-spacing:.02em}\n.plan-card .price{font-size:14px;color:var(--brown-soft);margin-top:6px}\n.plan-card .price strong{font-size:22px;color:var(--brown);font-weight:600;display:block;margin-bottom:2px}\n.plan-card .annual{font-size:12px;color:#7a6549;margin-top:4px}\n.plan-card ul{list-style:none;margin:0;padding:0;font-size:14px;color:var(--brown-soft)}\n.plan-card li{padding:6px 0;border-bottom:1px dashed var(--line);display:flex;gap:10px;align-items:baseline}\n.plan-card li::before{content:\"—\";color:var(--mint-deep);font-weight:600}\n.plan-card li:last-child{border-bottom:0}\n.plan-card .tag{align-self:flex-start;background:var(--mint);color:var(--brown);font-size:11px;letter-spacing:.16em;text-transform:uppercase;padding:6px 10px}\n.feature-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:36px 48px}\n.feature-block{padding:8px 0}\n.feature-block .num{font-size:34px;font-weight:600;color:var(--mint-deep);line-height:1;margin-bottom:14px}\n.use-list{counter-reset:step;list-style:none;padding:0;margin:0;border-top:1px solid var(--line)}\n.use-list li{padding:18px 0;border-bottom:1px solid var(--line);display:grid;grid-template-columns:48px 1fr;gap:18px}\n.use-list li::before{counter-increment:step;content:counter(step,decimal-leading-zero);color:var(--mint-deep);font-weight:600;font-size:14px;letter-spacing:.1em}\n.use-list strong{display:block;color:var(--brown);margin-bottom:4px;font-weight:600}\n.faq-list{border-top:1px solid var(--line)}\n.faq-list details{border-bottom:1px solid var(--line);padding:18px 0}\n.faq-list summary{cursor:pointer;font-weight:600;color:var(--brown);font-size:15px;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:18px}\n.faq-list summary::-webkit-details-marker{display:none}\n.faq-list summary::after{content:\"+\";color:var(--mint-deep);font-size:22px;font-weight:400;line-height:1;transition:transform .2s ease}\n.faq-list details[open] summary::after{transform:rotate(45deg)}\n.faq-list .answer{margin-top:12px;color:var(--brown-soft);font-size:14px;max-width:62ch}\n.faq-list .answer p{margin:0 0 8px}\n.legal{max-width:1180px;margin:0 auto;padding:32px 28px;border-top:1px solid var(--line);font-size:12px;color:#7a6549;display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap}\n@media (max-width:880px){\n.hero{grid-template-columns:1fr;gap:32px;padding:48px 22px 40px}\n.hero-text h1{font-size:36px}\n.feature-grid{grid-template-columns:1fr}\n.plan-card{grid-template-columns:1fr;gap:18px}\n.plan-card .tag{justify-self:start}\n.nav-inner{padding:12px 22px}\n}\n@media (max-width:520px){\n.hero-text h1{font-size:30px}\nsection{margin:44px 0}\nh2{font-size:22px}\n}\n</style><header>\n<nav class=\"nav\" aria-label=\"主导航\">\n<div class=\"nav-inner\">\n<div class=\"nav-brand\">CHUKOU · 出口</div>\n<div class=\"nav-links\">\n<a href=\"#overview\">服务概览</a>\n<a href=\"#features\">能力清单</a>\n<a href=\"#usage\">使用流程</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</div>\n</nav>\n</header>\n\n<section class=\"hero\" id=\"overview\">\n<div class=\"hero-text\">\n<p class=\"meta\">NETWORK OUTBOUND · v1</p>\n<h1>出口<br>一份关于跨境网络通道的说明书</h1>\n<p class=\"lede\">出口是一款面向跨境访问场景的网络通道服务，按月提供分层流量配额、节点路由与工单支持。本页以冷静的说明书口吻，叙述它的能力边界、使用方式与计费规则，不作营销承诺。</p>\n</div>\n<aside class=\"hero-panel\" aria-label=\"服务速览\">\n<h2>服务速览</h2>\n<dl>\n<div class=\"row\"><dt>服务名</dt><dd>出口</dd></div>\n<div class=\"row\"><dt>通道类型</dt><dd>网络出口路由</dd></div>\n<div class=\"row\"><dt>计费方式</dt><dd>订阅制 · 按月或按年</dd></div>\n<div class=\"row\"><dt>流量单位</dt><dd>GB / 月</dd></div>\n<div class=\"row\"><dt>工单时段</dt><dd>7×24（旗舰 / 团队）</dd></div>\n<div class=\"row\"><dt>文档版本</dt><dd>2026 年第 1 版</dd></div>\n</dl>\n</aside>\n</section>\n\n<main>\n<section id=\"intro\" class=\"intro\">\n<p class=\"eyebrow\">关于本页</p>\n<h2>在阅读套餐之前，请先读这段</h2>\n<p>本页所列内容仅描述出口服务本身的功能边界与计费结构，不涉及具体性能数值、节点地理位置或第三方测速结论。不同用户所在网络环境差异较大，实际表现以自身测试为准。如遇套餐描述与计费后台不一致，以后台订单详情页为准。</p>\n<p>出口不提供任何形式的退款保证承诺，亦不对使用本服务所产生的任何间接损失承担责任。订阅行为视为用户已阅读并接受本页全部说明。</p>\n</section>\n\n<section id=\"features\">\n<p class=\"eyebrow\">能力清单</p>\n<h2>服务包含哪些内容</h2>\n<div class=\"feature-grid\">\n<div class=\"feature-block\">\n<div class=\"num\">01</div>\n<h3>分层流量配额</h3>\n<p>按所选套餐提供每月固定 GB 配额。流量按自然月计，超出部分按届时公告的增量单价计费，或自动暂停至下月。</p>\n</div>\n<div class=\"feature-block\">\n<div class=\"num\">02</div>\n<h3>多设备并发</h3>\n<p>基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。设备以订阅账号下的授权实例计数。</p>\n</div>\n<div class=\"feature-block\">\n<div class=\"num\">03</div>\n<h3>节点路由池</h3>\n<p>提供按套餐划分的节点池。基础版使用普通线路节点，旗舰版扩展至 IPLC 专线及全节点原生流媒体解锁，团队版含企业定制路由。</p>\n</div>\n<div class=\"feature-block\">\n<div class=\"num\">04</div>\n<h3>工单与客户经理</h3>\n<p>基础版工单按工作时段处理；旗舰版升级为 7×24 优先工单；团队版在此基础上配备专属客户经理。</p>\n</div>\n</div>\n</section>\n\n<section id=\"usage\">\n<p class=\"eyebrow\">使用流程</p>\n<h2>从订阅到日常使用的四个步骤</h2>\n<ol class=\"use-list\">\n<li>\n<div><strong>选择套餐</strong>阅读本页套餐说明，结合自身流量预估与并发设备数选择版本。</div>\n</li>\n<li>\n<div><strong>完成订阅</strong>在订单页选择月付或年付，订阅成功后系统开通对应账号。</div>\n</li>\n<li>\n<div><strong>配置客户端</strong>使用通用网络代理客户端导入订阅地址，按客户端文档完成本地配置。</div>\n</li>\n<li>\n<div><strong>日常使用</strong>关注套餐内流量余量；如需更高配额或更多设备，可在套餐到期前调整版本。</div>\n</li>\n</ol>\n</section>\n\n<section id=\"plans\">\n<p class=\"eyebrow\">订阅套餐</p>\n<h2>三档套餐，逐项堆叠</h2>\n<div class=\"plan-stack\">\n<article class=\"plan-card\">\n<div>\n<div class=\"name\">基础版</div>\n<div class=\"price\"><strong>¥15</strong>/月</div>\n<div class=\"annual\">按年付仅需 ¥150/年</div>\n</div>\n<ul>\n<li>每月 100GB 极速流量</li>\n<li>支持 3 台设备同时在线</li>\n<li>解锁基础流媒体</li>\n<li>普通线路节点池</li>\n</ul>\n<div></div>\n</article>\n\n<article class=\"plan-card\">\n<div>\n<div class=\"name\">旗舰版</div>\n<div class=\"price\"><strong>¥35</strong>/月</div>\n<div class=\"annual\">按年付仅需 ¥350/年</div>\n</div>\n<ul>\n<li>每月 300GB 极速流量</li>\n<li>支持 5 台设备同时在线</li>\n<li>全节点原生流媒体解锁</li>\n<li>IPLC 专线游戏加速优化</li>\n<li>7×24 优先工单支持</li>\n</ul>\n<div class=\"tag\">推荐</div>\n</article>\n\n<article class=\"plan-card\">\n<div>\n<div class=\"name\">团队版</div>\n<div class=\"price\"><strong>¥85</strong>/月</div>\n<div class=\"annual\">按年付仅需 ¥850/年</div>\n</div>\n<ul>\n<li>每月 1000GB 极速流量</li>\n<li>支持 20 台设备同时在线</li>\n<li>VIP 专属高带宽节点</li>\n<li>支持企业定制路由</li>\n<li>专属客户经理服务</li>\n</ul>\n<div></div>\n</article>\n</div>\n</section>\n\n<section id=\"faq\">\n<p class=\"eyebrow\">常见问题</p>\n<h2>FAQ · 关于订阅与使用</h2>\n<div class=\"faq-list\">\n<details>\n<summary>流量是如何计算的？</summary>\n<div class=\"answer\">\n<p>流量按出口方向与入口方向之和累计，以 GB 为单位，按自然月清零。月付用户每月 1 日 0 点重置，年付用户则在订阅起始日对应日期重置。</p>\n<p>系统对流量统计存在合理误差，账单以后台累计值为准。</p>\n</div>\n</details>\n<details>\n<summary>设备数限制如何理解？</summary>\n<div class=\"answer\">\n<p>设备数以同一订阅账号下的授权实例为单位，与设备硬件无关。删除闲置实例后即可在新设备上登录。</p>\n<p>若超出上限，客户端连接会提示授权数已满，需要在管理面板下线旧设备后再尝试。</p>\n</div>\n</details>\n<details>\n<summary>节点与线路之间有何区别？</summary>\n<div class=\"answer\">\n<p>节点指出口服务的接入点；线路指节点之间的网络路径。基础版使用普通线路节点，旗舰版在此之上叠加 IPLC 专线，团队版可按需定制路由策略。</p>\n</div>\n</details>\n<details>\n<summary>是否支持中途升级或降级套餐？</summary>\n<div class=\"answer\">\n<p>支持。升级套餐立即生效，差价按剩余订阅天数折算；降级套餐在当前订阅周期结束后生效，未消耗的差价不退款。</p>\n</div>\n</details>\n<details>\n<summary>工单与客户经理的响应时效？</summary>\n<div class=\"answer\">\n<p>基础版工单在工作日时段处理；旗舰版工单升级为 7×24 优先处理；团队版配备专属客户经理，响应时效以约定服务等级为准。</p>\n</div>\n</details>\n<details>\n<summary>订阅是否可取消或退款？</summary>\n<div class=\"answer\">\n<p>订阅可在到期前关闭自动续费。本服务不提供任何形式的退款保证承诺，已开通的订阅周期内不办理退款。</p>\n</div>\n</details>\n</div>\n</section>\n</main>\n\n<footer class=\"legal\">\n<div>© 出口 · CHUKOU — 网络出口服务说明书</div>\n<div>v1 · 2026</div>\n</footer>",
+          "hash": "89299cac1ab24376d782c9918952bbc75cb9d18dfd74d2d4352fd9b3d4608e11",
+          "seo": {
+            "title": "出口 — 网络出口服务",
+            "keywords": "出口,网络出口,网络通道,网络路由",
+            "description": "出口是一款面向跨境网络场景的通道服务，提供分层流量配额、节点路由与工单支持。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "6168",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "9 深棕配薄荷",
+            "nav": "1 顶部细横条",
+            "card": "1 无边框仅靠留白分隔",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "1 冷静克制的说明书口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "taluozhanxing.cn",
+    "host": "p-ddd81fe0df.taluozhanxing.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "d5688a2e7940d336ec816b70c3914c0679028d7e7cd556b8fd9844e14d4b80a2",
+    "sitemap.xml": "f4a05bd379637fb9f3f9aee079064182f97e201675020dca25a6299a936fb1c9",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "64c7951e31b920fe6aafa61bebd860ca420a177d4dce2b34f74f3749283cf7b3",
+    "robots.txt": "dd39a0b4ed3af5bedbf57c0090c21ea2e108f747c10d9642d4e2c6dfb89cb78f",
+    "c34a9fbd9ea59b4d03b4bac5532a57f0.txt": "b4112240a8abe76aa52ee446ae92175405fb93b939b147e3ecf7de42eb1bfe1c"
+  },
+  "revision": "d581aa5a886c08b7858d85595fae9714bb9b5fa4a9db18847e498ecb15e3458d"
+}
